@@ -1,1 +1,3 @@
-# APCSA-2B-Grades
+# Grades
+
+In this project you will write a program that allows the user to input the number of grades they want to be averaged. Then use a for loop structure to have the user input all the test grades individually, calculating the sum of these grades as they are being entered. These amounts, including the sum, are to be all ints. After all the grades have been entered, the program will calculate the average (what data type should this variable be?). Print out the average for the number of grades entered.
